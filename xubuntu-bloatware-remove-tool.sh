@@ -20,3 +20,5 @@ sudo apt-get purge chromium-browser
 sudo apt-get purge --auto-remove chromium-browser
 sudo apt-get autoremove
 echo All the bloatware is now removed! >w<
+echo Restarting your PC... UwU
+sudo reboot
